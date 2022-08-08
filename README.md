@@ -5,7 +5,7 @@
 
 ## Projects made/maintained by myself:
 - [Elevendebloater](https://speedie.gq/elevendebloater)
-- [Project 081](https://speedie.gq/project081
+- [Project 081](https://speedie.gq/project081)
 - [Gentoo-Install](https://github.com/speediegq/gentoo-install)
 - [speedie's desktop environment](https://speedie.gq/spde.html)
 - [dfmpeg](https://speedie.gq/dmenu-scripts)
