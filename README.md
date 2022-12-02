@@ -1,25 +1,7 @@
-## speedie://about
+# Notice
 
-##### Hello, I'm speedie, a free software enthusiast and activist.
-##### GitHub sucks so I suggest you [visit my website instead](https://speedie.gq).
+I am no longer an active user of GitHub and I don't host my projects on here anymore.
+My current repositories can be found [on my Codeberg](https://codeberg.org/speedie). I occasionally submit issues and pull requests though. 
 
-## Projects made/maintained by myself:
-- [Elevendebloater](https://speedie.gq/elevendebloater)
-- [Project 081](https://speedie.gq/project081)
-- [Gentoo-Install](https://github.com/speediegq/gentoo-install)
-- [speedie's desktop environment](https://speedie.gq/spde.html)
-- [dfmpeg](https://speedie.gq/dmenu-scripts)
-- [genpkg](https://speedie.gq/dmenu-scripts)
-- [swal](https://speedie.gq/dmenu-scripts)
-- [setwallpaper](https://github.com/speediegamer/setwallpaper)
-- [Nintendo Wii Archive](https://github.com/forwarderfactory/wii)
-- [Homebrew Channel Archive](https://github.com/forwarderfactory/hbc-archive)
-
-## Socials:
-- [Archive.org](https://archive.org/details/@forwarderfactory)
-- [Rautafarmi](https://speedie.gq/rchat)
-- [YouTube](https://invidio.us/forwarderfactory)
-- [Discord Server](https://ffdiscord.github.io)
-
-## Linux configurations:
-- [Configurations](https://github.com/speedie-de)
+If you need to contact me urgently, [email me](mailto:speedie@duck.com).
+All information you could want can be found on my website [here](https://speedie.gq).
