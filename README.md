@@ -10,7 +10,11 @@ All information you could want can be found on my website [here](https://speedie
 
 Some of my projects, see [this page](https://speedie.site/projects.php) for a proper list.
 
-- [spmenu](https://speedie.site/projects/spmenu.php)
+- [spmenu](https://spmenu.speedie.site)
+  - Fancy dynamic menu, fork of dmenu with more features.
 - [speedwm](https://speedwm.speedie.site)
+  - Just my dwm fork.
 - [hbc-archive](https://github.com/ForwarderFactory/hbc-archive)
+  - Homebrew Channel archive
 - [wii](https://github.com/ForwarderFactory/wii)
+  - Wii Homebrew archive
