@@ -1,20 +1,23 @@
-# Notice
+# About me
 
-I am no longer an active user of GitHub and I don't host my projects on here anymore.
-My current repositories can be found [on my cgit instance](https://git.speedie.site). I occasionally submit issues and pull requests though. 
+I'm speedie, just a dude doing stupid things that interest me, sometimes programming related.
 
-If you need to contact me urgently, [email me](mailto:speedie@duck.com).
-All information you could want can be found on my website [here](https://speedie.site).
+- [PGP key](https://ls.speedie.site/pubkey.asc)
+  - `gpg --recv-keys CEB863B830D1318A`
+- [Email me](mailto:speedie.site)
+- [Git server](https://git.speedie.site)
+- [Releases](https://ls.speedie.site)
+- [Blog](https://speedie.site/rss.xml)
+- Time zone
+  - `Stockholm/UTC +02:00`
 
 ## Projects
 
-Some of my projects, see [this page](https://speedie.site/projects.php) for a proper list.
-
-- [spmenu](https://spmenu.speedie.site)
-  - Fancy dynamic menu, fork of dmenu with more features.
-- [speedwm](https://speedwm.speedie.site)
-  - Just my dwm fork.
+- [spmenu](https://github.com/speediegq/spmenu)
+  - Fancy dynamic menu for X11 and Wayland, compatible with and based on dmenu.
 - [hbc-archive](https://github.com/ForwarderFactory/hbc-archive)
-  - Homebrew Channel archive
+  - Homebrew Channel, BootMii, HackMii Installer, DVDX archive.
 - [wii](https://github.com/ForwarderFactory/wii)
-  - Wii Homebrew archive
+  - Wii Homebrew and system software archive.
+- [Project 081](https://github.com/p081/project081)
+  - Project 081 is a simple to use unofficial Mac OS X modification which can install Tiger on some specific models from Late 2007 through Early 2008. **Discontinued as of 2023**.
