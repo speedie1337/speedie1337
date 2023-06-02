@@ -13,11 +13,11 @@ I'm speedie, just a dude doing stupid things that interest me, sometimes program
 
 ## Projects
 
-- [spmenu](https://github.com/speediegq/spmenu)
+- [spmenu](https://github.com/speediegq/spmenu) (Written in C)
   - Fancy dynamic menu for X11 and Wayland, compatible with and based on dmenu.
-- [hbc-archive](https://github.com/ForwarderFactory/hbc-archive)
+- [hbc-archive](https://github.com/ForwarderFactory/hbc-archive) (Misc)
   - Homebrew Channel, BootMii, HackMii Installer, DVDX archive.
-- [wii](https://github.com/ForwarderFactory/wii)
+- [wii](https://github.com/ForwarderFactory/wii) (Misc)
   - Wii Homebrew and system software archive.
-- [Project 081](https://github.com/p081/project081)
+- [Project 081](https://github.com/p081/project081) (Misc)
   - Project 081 is a simple to use unofficial Mac OS X modification which can install Tiger on some specific models from Late 2007 through Early 2008. **Discontinued as of 2023**.
