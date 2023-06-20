@@ -1,6 +1,4 @@
-# About me
-
-I'm speedie, just a dude doing stupid things that interest me, sometimes programming related.
+See [speedie.site](https://speedie.site) for more information.
 
 - [PGP key](https://ls.speedie.site/pubkey.asc)
   - `gpg --recv-keys CEB863B830D1318A`
