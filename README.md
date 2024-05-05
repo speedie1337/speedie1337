@@ -3,6 +3,7 @@ I mostly write code in C, C++, POSIX sh, Bash, HTML, CSS, PHP and SQL. I've also
 
 ## Projects
 
+- [docpp](https://github.com/speediegq/docpp) - Small C++ library for generating XML, HTML and CSS in a C++ friendly way.
 - [spmenu](https://git.speedie.site/speedie/spmenu) - Fancy dynamic menu for X11 and Wayland, compatible with and based on dmenu.
 - [curload](https://git.speedie.site/speedie/curload) - curload is a simple file uploading site allowing users to upload files.
 - [libleet](https://git.speedie.site/speedie/libleet) - C++ Matrix chat library/SDK.
